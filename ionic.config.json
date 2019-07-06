@@ -1,5 +1,7 @@
 {
   "name": "capacitor-facebook-login-tutorial",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
