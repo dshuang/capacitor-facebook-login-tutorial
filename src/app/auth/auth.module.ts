@@ -10,17 +10,12 @@ import { AuthPage } from './auth.page';
 const routes: Routes = [
   {
     path: '',
-    component: AuthPage
-  }
+    component: AuthPage,
+  },
 ];
 
 @NgModule({
-  imports: [
-    CommonModule,
-    FormsModule,
-    IonicModule,
-    RouterModule.forChild(routes)
-  ],
-  declarations: [AuthPage]
+  imports: [CommonModule, FormsModule, IonicModule, RouterModule.forChild(routes)],
+  declarations: [AuthPage],
 })
 export class AuthPageModule {}
