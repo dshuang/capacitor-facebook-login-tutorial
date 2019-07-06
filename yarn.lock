@@ -312,6 +312,11 @@
   dependencies:
     tslib "^1.9.0"
 
+"@capacitor/ios@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@capacitor/ios/-/ios-1.1.0.tgz#310659a8feec0e22c8e108b968db936281114e0c"
+  integrity sha512-KB2VrVWd6GmSZwbjeO4GkGotng1/pBQNWxcGgahi2HOTezK0kB3Rf1tBH4NBFSCOSqsrYrNWfIVSOtmHo7lsPQ==
+
 "@ionic-native/core@^5.0.0":
   version "5.9.0"
   resolved "https://registry.yarnpkg.com/@ionic-native/core/-/core-5.9.0.tgz#a3fba45b36cd68264d5e401a7f1a02929ceebe7d"
