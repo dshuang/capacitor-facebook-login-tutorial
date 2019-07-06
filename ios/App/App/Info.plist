@@ -79,12 +79,12 @@
       <dict>
         <key>CFBundleURLSchemes</key>
         <array>
-          <string>fb[APP_ID]</string>
+          <string>fb123456789101112</string>
         </array>
       </dict>
     </array>
     <key>FacebookAppID</key>
-    <string>[APP_ID]</string>
+    <string>123456789101112</string>
     <key>FacebookDisplayName</key>
     <string>Wimlov</string>
     <key>LSApplicationQueriesSchemes</key>
