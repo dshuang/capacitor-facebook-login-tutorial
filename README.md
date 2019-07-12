@@ -23,7 +23,7 @@ Created project using type `tabs`.
 
 
 ```bash
-$ ionis start --type=angular
+$ ionic start --type=angular
 ```
 
 ### 2. [create(auth): frame by using generate command.](https://github.com/rdlabo/capacitor-facebook-login-tutorial/commit/3ca45cdfafe96e9ca55c9c35128b6e7ce4988650)
